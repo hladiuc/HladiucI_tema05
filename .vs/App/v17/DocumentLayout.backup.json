@@ -1,0 +1,157 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Ionut-PC\\HladiucI_tema05\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AFEBECC5-7BB2-4AC2-A883-BB349F608A64}|App\\App.csproj|c:\\users\\ionut-pc\\hladiuci_tema05\\app\\lib\\point.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFEBECC5-7BB2-4AC2-A883-BB349F608A64}|App\\App.csproj|solutionrelative:app\\lib\\point.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFEBECC5-7BB2-4AC2-A883-BB349F608A64}|App\\App.csproj|C:\\Users\\Ionut-PC\\HladiucI_tema05\\app\\lib\\cube.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFEBECC5-7BB2-4AC2-A883-BB349F608A64}|App\\App.csproj|solutionrelative:app\\lib\\cube.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFEBECC5-7BB2-4AC2-A883-BB349F608A64}|App\\App.csproj|C:\\Users\\Ionut-PC\\HladiucI_tema05\\app\\lib\\axis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFEBECC5-7BB2-4AC2-A883-BB349F608A64}|App\\App.csproj|solutionrelative:app\\lib\\axis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFEBECC5-7BB2-4AC2-A883-BB349F608A64}|App\\App.csproj|C:\\Users\\Ionut-PC\\HladiucI_tema05\\app\\lib\\appwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFEBECC5-7BB2-4AC2-A883-BB349F608A64}|App\\App.csproj|solutionrelative:app\\lib\\appwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFEBECC5-7BB2-4AC2-A883-BB349F608A64}|App\\App.csproj|C:\\Users\\Ionut-PC\\HladiucI_tema05\\app\\lib\\utils\\randomizer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFEBECC5-7BB2-4AC2-A883-BB349F608A64}|App\\App.csproj|solutionrelative:app\\lib\\utils\\randomizer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFEBECC5-7BB2-4AC2-A883-BB349F608A64}|App\\App.csproj|C:\\Users\\Ionut-PC\\HladiucI_tema05\\app\\lib\\utils\\loadcoordinates.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFEBECC5-7BB2-4AC2-A883-BB349F608A64}|App\\App.csproj|solutionrelative:app\\lib\\utils\\loadcoordinates.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFEBECC5-7BB2-4AC2-A883-BB349F608A64}|App\\App.csproj|C:\\Users\\Ionut-PC\\HladiucI_tema05\\app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFEBECC5-7BB2-4AC2-A883-BB349F608A64}|App\\App.csproj|solutionrelative:app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFEBECC5-7BB2-4AC2-A883-BB349F608A64}|App\\App.csproj|C:\\Users\\Ionut-PC\\HladiucI_tema05\\app\\coordinates.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{AFEBECC5-7BB2-4AC2-A883-BB349F608A64}|App\\App.csproj|solutionrelative:app\\coordinates.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Cube.cs",
+              "DocumentMoniker": "C:\\Users\\Ionut-PC\\HladiucI_tema05\\App\\lib\\Cube.cs",
+              "RelativeDocumentMoniker": "App\\lib\\Cube.cs",
+              "ToolTip": "C:\\Users\\Ionut-PC\\HladiucI_tema05\\App\\lib\\Cube.cs",
+              "RelativeToolTip": "App\\lib\\Cube.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T19:20:36.436Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Randomizer.cs",
+              "DocumentMoniker": "C:\\Users\\Ionut-PC\\HladiucI_tema05\\App\\lib\\utils\\Randomizer.cs",
+              "RelativeDocumentMoniker": "App\\lib\\utils\\Randomizer.cs",
+              "ToolTip": "C:\\Users\\Ionut-PC\\HladiucI_tema05\\App\\lib\\utils\\Randomizer.cs",
+              "RelativeToolTip": "App\\lib\\utils\\Randomizer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T18:49:24.897Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Point.cs",
+              "DocumentMoniker": "C:\\Users\\Ionut-PC\\HladiucI_tema05\\App\\lib\\Point.cs",
+              "RelativeDocumentMoniker": "App\\lib\\Point.cs",
+              "ToolTip": "C:\\Users\\Ionut-PC\\HladiucI_tema05\\App\\lib\\Point.cs",
+              "RelativeToolTip": "App\\lib\\Point.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T18:44:54.096Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LoadCoordinates.cs",
+              "DocumentMoniker": "C:\\Users\\Ionut-PC\\HladiucI_tema05\\App\\lib\\utils\\LoadCoordinates.cs",
+              "RelativeDocumentMoniker": "App\\lib\\utils\\LoadCoordinates.cs",
+              "ToolTip": "C:\\Users\\Ionut-PC\\HladiucI_tema05\\App\\lib\\utils\\LoadCoordinates.cs",
+              "RelativeToolTip": "App\\lib\\utils\\LoadCoordinates.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T18:13:15.135Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "coordinates.txt",
+              "DocumentMoniker": "C:\\Users\\Ionut-PC\\HladiucI_tema05\\App\\coordinates.txt",
+              "RelativeDocumentMoniker": "App\\coordinates.txt",
+              "ToolTip": "C:\\Users\\Ionut-PC\\HladiucI_tema05\\App\\coordinates.txt",
+              "RelativeToolTip": "App\\coordinates.txt",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACAAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-11-08T18:04:58.147Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Axis.cs",
+              "DocumentMoniker": "C:\\Users\\Ionut-PC\\HladiucI_tema05\\App\\lib\\Axis.cs",
+              "RelativeDocumentMoniker": "App\\lib\\Axis.cs",
+              "ToolTip": "C:\\Users\\Ionut-PC\\HladiucI_tema05\\App\\lib\\Axis.cs",
+              "RelativeToolTip": "App\\lib\\Axis.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T17:59:06.245Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Ionut-PC\\HladiucI_tema05\\App\\Program.cs",
+              "RelativeDocumentMoniker": "App\\Program.cs",
+              "ToolTip": "C:\\Users\\Ionut-PC\\HladiucI_tema05\\App\\Program.cs",
+              "RelativeToolTip": "App\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T17:45:39.566Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "APPWindow.cs",
+              "DocumentMoniker": "C:\\Users\\Ionut-PC\\HladiucI_tema05\\App\\lib\\APPWindow.cs",
+              "RelativeDocumentMoniker": "App\\lib\\APPWindow.cs",
+              "ToolTip": "C:\\Users\\Ionut-PC\\HladiucI_tema05\\App\\lib\\APPWindow.cs",
+              "RelativeToolTip": "App\\lib\\APPWindow.cs",
+              "ViewState": "AgIAAHoAAAAAAAAAAAAqwK8AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T17:41:40.518Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
